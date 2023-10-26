@@ -5,6 +5,8 @@ public class Fibonacci {
    public static void main(String[] args) {
      List<Integer> fibo_List = new ArrayList<>();
      fibo_List.add(0);
+     fibo_List.add(1);
+
      int i=0;
      int y=1;
       for(int n=0 ; n<8;n++){
