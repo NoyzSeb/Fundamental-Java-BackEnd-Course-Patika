@@ -1,4 +1,4 @@
-package Java_101.Arrays_Series_Study;
+package Java_101.Arrays_Study;
 import java.util.Scanner;
 
 public class avr_Array_Elements {
